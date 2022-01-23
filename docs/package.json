@@ -18,7 +18,7 @@
     "typescript:transpile:dev": "echo 'Use `yarn docs:typescript'` instead && exit 1"
   },
   "dependencies": {
-    "@babel/core": "^7.16.7",
+    "@babel/core": "^7.16.12",
     "@babel/plugin-transform-object-assign": "^7.16.7",
     "@babel/runtime-corejs2": "^7.16.7",
     "@date-io/core": "^2.11.0",
